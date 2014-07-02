@@ -1,3 +1,4 @@
 <?php
-echo "master updated";
+echo "master updated lagi";
+
 ?>
